@@ -1,7 +1,7 @@
 package Praktikum;
 
-public class TestBola {
-    public static void main(String[] args){
+public class UjiBola {
+        public static void main(String[] args){
         Bola bola = new Bola();
         bola.setjarijari(14);
         bola.showDiameter();
